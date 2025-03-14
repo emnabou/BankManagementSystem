@@ -1,0 +1,12 @@
+101
+Alice Johnson
+alice@example.com
+500.75
+102
+Bob Smith
+bobsmith@example.com
+1200
+103
+Charlie Dccs
+charlie@hotmail.com
+300.25
